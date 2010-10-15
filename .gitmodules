@@ -1,0 +1,3 @@
+[submodule "vendor/dominion"]
+	path = vendor/dominion
+	url = git://github.com/kch/dominion.git
